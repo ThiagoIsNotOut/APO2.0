@@ -1,0 +1,8 @@
+¿Cual es tu nombre?
+¿Cuales son tus apellidos?
+¿Donde vives?
+¿Que edad tienes?
+¿Donde naciste?
+¿Cual es tu numero de identificación?
+¿tienes mascotas?
+¿Tus padres están vivos?
